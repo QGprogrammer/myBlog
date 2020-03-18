@@ -6,14 +6,29 @@
 
 * **下载Ubantu镜像文件**
 
-  >注意：选稍后安装系统！
-
 * **使用VM创建虚拟机**
 
-* **设置root**
+  >注意：选稍后安装系统！选择安装LVM技术！关闭自动更新！只安装OpenSSH服务！
 
+* **设置root以及远程访问**
+
+  ```bash
+  $ sudo passwd
   ```
-  sudo passwd
+
+  默认远程是不允许root用户登录，需更改配置
+
+  ```bash
+  $ sudo vi sshd_config
+  
+  # Authentication:
+  LoginGraceTime 120
+  #PermitRootLogin without-password     //注释此行
+  PermitRootLogin yes                             //加入此行
+  StrictModes yes
+  
+  重启服务
+  $ sudo service ssh restart
   ```
 
 * **更换下载源**
@@ -22,8 +37,8 @@
 
   #### 查看系统版本
 
-  ```
-  lsb_release -a
+  ```bash
+  $ lsb_release -a
   ```
 
   输出结果为：
@@ -40,8 +55,8 @@
 
   #### 编辑数据源
 
-  ```
-  vi /etc/apt/sources.list
+  ```bash
+  $ vi /etc/apt/sources.list
   ```
 
   删除全部内容并修改为：
@@ -55,32 +70,32 @@
 
   ####  更新数据源
 
-  ```
-  apt-get update
+  ```bash
+  $ apt-get update
   ```
 
   #### 常用 APT 命令
 
   #### 安装软件包
 
-  ```text
-  apt-get install packagename
+  ```bash
+  $ apt-get install packagename
   ```
 
   #### 删除软件包
 
-  ```text
-  apt-get remove packagename
+  ```bash
+  $ apt-get remove packagename
   ```
 
   #### 更新软件包列表
 
-  ```text
-  apt-get update
+  ```bash
+  $ apt-get update
   ```
 
   #### 升级有可用更新的系统（慎用）
 
-  ```text
-  apt-get upgrade
+  ```bash
+  $ apt-get upgrade
   ```
