@@ -7,7 +7,8 @@
 * [运行时数据区域](https://github.com/QGprogrammer/myBlog/blob/master/深入理解Java虚拟机/01_运行时数据区域.md)
 * [HotSpot虚拟机对象探秘](https://github.com/QGprogrammer/myBlog/blob/master/深入理解Java虚拟机/02_HotSpot虚拟机对象探秘.md)
 * [实战：OutOfMemoryError异常](https://github.com/QGprogrammer/myBlog/blob/master/深入理解Java虚拟机/03_实战：OutOfMemoryError异常.md)
-* [04_对象已死？](https://github.com/QGprogrammer/myBlog/blob/master/深入理解Java虚拟机/04_对象已死？.md)
+* [对象已死？](https://github.com/QGprogrammer/myBlog/blob/master/深入理解Java虚拟机/04_对象已死？.md)
+* [垃圾收集算法](https://github.com/QGprogrammer/myBlog/blob/master/深入理解Java虚拟机/05_垃圾收集算法.md)
 
 
 
@@ -21,9 +22,9 @@
 
 * [xshell拖拽文件传输](https://github.com/QGprogrammer/myBlog/blob/master/Linux/xshell拖拽文件传输.md)
 
-* [Linux配置Java环境](https://github.com/QGprogrammer/myBlog/blob/master/Linux/Linux配置Java环境.md)
+* [ubantu配置Java环境](https://github.com/QGprogrammer/myBlog/blob/master/Linux/Linux配置Java环境.md)
 
-* [Linux配置Maven环境](https://github.com/QGprogrammer/myBlog/blob/master/Linux/Linux配置Maven环境.md)
+* [ubantu配置Maven环境](https://github.com/QGprogrammer/myBlog/blob/master/Linux/Linux配置Maven环境.md)
 
 * [docker的安装与使用](https://github.com/QGprogrammer/myBlog/blob/master/Linux/docker的安装与使用.md)
 
