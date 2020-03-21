@@ -18,11 +18,28 @@
 ### Linux
 
 * [使用VMware安装Ubantu](https://github.com/QGprogrammer/myBlog/blob/master/Linux/使用VMware安装Ubantu.md)
+
 * [xshell拖拽文件传输](https://github.com/QGprogrammer/myBlog/blob/master/Linux/xshell拖拽文件传输.md)
+
+* [Linux配置Java环境](https://github.com/QGprogrammer/myBlog/blob/master/Linux/Linux配置Java环境.md)
+
+* [Linux配置Maven环境](https://github.com/QGprogrammer/myBlog/blob/master/Linux/Linux配置Maven环境.md)
+
 * [docker的安装与使用](https://github.com/QGprogrammer/myBlog/blob/master/Linux/docker的安装与使用.md)
+
 * [docker-compose的安装](https://github.com/QGprogrammer/myBlog/blob/master/Linux/docker的安装与使用.md)
+
 * [基于docker安装运行Mysql](https://github.com/QGprogrammer/myBlog/blob/master/Linux/基于docker安装运行Mysql.md)
+
 * [基于docker安装运行GitLab](https://github.com/QGprogrammer/myBlog/blob/master/Linux/基于docker安装运行GitLab.md)
+
 * [基于docker安装运行Nexus](https://github.com/QGprogrammer/myBlog/blob/master/Linux/基于docker安装运行Nexus.md)
+
 * [基于docker安装运行Registry](https://github.com/QGprogrammer/myBlog/blob/master/Linux/基于docker安装运行Registry.md)
+
+* [基于docker安装运行GitRunner实现持续集成](https://github.com/QGprogrammer/myBlog/blob/master/Linux/基于docker安装运行GitRunner实现持续集成.md)
+
+  
+
+  
 
