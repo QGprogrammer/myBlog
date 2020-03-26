@@ -1,6 +1,6 @@
 #  基于docker安装运行Nginx_负载均衡
 
-*如未安装nginx，参考**[Nginx的安装](https://github.com/QGprogrammer/myBlog/blob/master/Linux/基于docker安装运行Nginx_虚拟主机.md)*
+*如未安装nginx，参考[Nginx的安装](https://github.com/QGprogrammer/myBlog/blob/master/Linux/基于docker安装运行Nginx_虚拟主机.md)*
 
 *tomcat的部署，参考[基于docker安装运行Nginx_反向代理](https://github.com/QGprogrammer/myBlog/blob/master/Linux/基于docker安装运行Nginx_反向代理.md)*
 

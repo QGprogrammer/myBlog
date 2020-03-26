@@ -33,6 +33,8 @@
 * [基于docker安装运行Nginx_虚拟主机](https://github.com/QGprogrammer/myBlog/blob/master/Linux/基于docker安装运行Nginx_虚拟主机.md)
 * [基于docker安装运行Nginx_反向代理](https://github.com/QGprogrammer/myBlog/blob/master/Linux/基于docker安装运行Nginx_反向代理.md)
 * [基于docker安装运行Nginx_负载均衡](https://github.com/QGprogrammer/myBlog/blob/master/Linux/基于docker安装运行Nginx_负载均衡.md)
+* [基于docker安装运行Nginx_搭建伪CDN](https://github.com/QGprogrammer/myBlog/blob/master/Linux/基于docker安装运行Nginx_搭建伪CDN.md)
+* [基于docker安装运行Nginx_解决跨域问题](https://github.com/QGprogrammer/myBlog/blob/master/Linux/基于docker安装运行Nginx_解决跨域问题.md)
 
 
 
