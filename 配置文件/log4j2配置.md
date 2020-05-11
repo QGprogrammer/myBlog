@@ -229,3 +229,5 @@ Filters决定日志事件能否被输出。过滤条件有三个值：***ACCEPT(
     </loggers>
 </configuration>
 ```
+
+***注意：Logger的name是包名或者类名***
