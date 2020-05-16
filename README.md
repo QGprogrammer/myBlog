@@ -10,6 +10,7 @@
 * [对象已死？](https://github.com/QGprogrammer/myBlog/blob/master/深入理解Java虚拟机/04_对象已死？.md)
 * [垃圾收集算法](https://github.com/QGprogrammer/myBlog/blob/master/深入理解Java虚拟机/05_垃圾收集算法.md)
 * [实战：内存分配与回收策略](https://github.com/QGprogrammer/myBlog/blob/master/深入理解Java虚拟机/06_实战：内存分配与回收策略.md)
+* [Class类结构](https://github.com/QGprogrammer/myBlog/blob/master/深入理解Java虚拟机/07_Class类结构.md)
 
 
 
